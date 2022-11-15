@@ -1,3 +1,6 @@
 # ikt-jira-feladat
 #asaSAas
-#dasdasdsadakodasjh
+
+
+#dasjkdasjdasd
+
