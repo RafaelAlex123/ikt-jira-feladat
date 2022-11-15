@@ -1,1 +1,2 @@
 # ikt-jira-feladat
+#asaSAas
